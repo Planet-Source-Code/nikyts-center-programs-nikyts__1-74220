@@ -1,0 +1,140 @@
+++++++++++++++++++++++++++++++++++++++++++
+    NPlayer - Nikyts software
+    http://www.nikyts.com
+++++++++++++++++++++++++++++++++++++++++++
+
+    Language: English (ENG)
+
+[Map]
+Region=4
+X=232
+Y=67
+	
+[Setup]
+Button_Close=Close
+Label_Language=Language
+Check_Shortcut=Create shortcut on the desktop
+Button_Ok=Ok
+Button_Cancel=Cancel
+
+[Install]
+Title1=Check components
+Title2=Register Components
+Button_Close=Close
+Label_Info=The program to run properly you have to register some components.
+Button_Ok=Register
+Button_Cancel=Cancel
+
+[Message]
+Button_Close=Close
+Label_Yes=Yes
+Label_Ok=OK
+Label_No=No
+
+[Main]
+Button_Close=Close
+Button_Minimize=Minimize
+Button_Maximize=Maximize
+Button_Restore=Restore
+Menu_Search=Search
+Menu_Installed=Installed
+Menu_Share=Share
+Menu_Options=Options
+Menu_Support=Suportt
+Menu_About=About
+Tab_Select_Category=Home
+Text_Search=Search
+Label_Select_Category=SELECT A CATEGORY PROGRAM YOU WANT SEARCH
+Button_Update_Program=Update program
+Error_Transfer_Program=An error occurred during transfer of the program.
+Button_Transfer_Program=Download
+Button_Execute_Program=Execute
+Button_Remove_Program=Remove
+Button_Cancel_Program=Cancel
+Button_More_Information=More information
+Label_Program_Official_Website=Official website
+Label_Rating=Rating
+Label_Select_Category=SELECT A CATEGORY YOU WANT THE PROGRAM SEARCH
+Folder_Tools=Tools
+Folder_Media=Sound and Video
+Folder_Accessibility=Accessibility
+Folder_Internet=Internet
+Folder_Games=Games
+Label_Transferring_File=Transferring the file. Wait ...
+Label_Download_Complete=Download complete
+Label_Installed_In=Installed in
+Label_No_Programs_Found=No programs were found with this category.
+Button_More_Information=More information
+Button_Execute=Execute
+Label_I_Like=If you liked the program input into their vote.
+Button_I_Like=I like
+Operation_Canceled=Operation canceled
+Label_Transferring_File=Transferring the file...
+Message_Vote_Assigned=Your vote has been assigned to the program successfully!
+Message_Thanks=Thanks for your input.
+Label_Rate=Ratting
+Label_Site_Official=Official site of the program
+Message_Required_Field=Required field.
+Message_Email_Invalid=Enter a valid email address.
+Label_Info=(Possible to contact if necessary)
+Label_Of=Email
+Label_Subject=Subject
+Label_Message=Message
+Label_Report=Report error
+Label_Suggestion=Suggestion
+Label_Question=Question
+Label_Other=Other
+Button_Ok=Send message
+Button_Clean=Clean fields
+Label_Error=Error nº:
+Label_Description=Description:
+Error_Execution=An error occurred during program execution.
+Error_Register=An error occurred when registering The components of the program.
+Error_Suggestion=Suggestion: run the program as administrator.
+Error_Connect=An error occurred when trying to connect to the server.
+Error_Internet=Possible cause: Your internet connection may be disconnected
+Info_Posted=Your message was sent successfully.
+Error_Email_Invalid=Email is invalid.
+Text_About1=The Center programs Nikyts is an application that provides its users management programs developed by Nikyts Software as well as other possible contributors, where you can install, remove and update software.
+Text_About2=The program is a portable system that was created thinking of users who will use a flash drive as a hard disk, but it is perfectly possible to use it in any folder of your Windows. 
+Text_About3Just unzip and run the main file that you will soon be ready to use their resources.
+Text_About4=Although it is not necessary to install the application, this does not mean that there may be some need to register components in your computer, so you can thus enjoy its features correctly.
+Text_About5=The Center programs Nikyts was developed in Visual Basic 6 for
+Text_About6=in order to create an application that possesses several features inherent in day-to-day users in one application.
+Label_Version=version
+Label_Informatic=Computing and Technology
+Label_Contact=Contact
+Label_Website=Official site
+Close_Frame_Error=Hide
+Button_Apply=Apply preferences
+Ckeck_Update=Check for updates automatically
+Label_Language_Program=Language Program
+Button_Run_Program=Execute
+Button_Uninstall_Program=Uninstall program
+Button_Upload_Program=Upload program
+Label_Share_Business=Business / Programmer
+Label_Share_Name=Name of program
+Label_Share_Description=Write a short description of the program
+Label_Share_Information=Program information
+Label_Share_Web=Official site
+Label_Share_Download=Link to download the program
+Label_Share_Info=Note: In the event that the program has some virus will be removed!
+Tab_Result_Search=Result of search
+Tab_Result_Enterprise=Programs developed by
+Quest_Uninstall_Programa=You really want to uninstall the program:
+Info_None_Selected_Program=None selected program.
+Check_Tray=Minimize the program in systray (next to the clock)
+Check_Bar=See the bar of the programs installed on your desktop
+Label_Options_Successfully_Updated=(Program options have been successfully updated)
+
+[Update]
+Title=Update program
+Button_Close=Close
+Location_Program=Location of program
+Check_Start_Program=Start the program after updating
+Label_State_Download=State of the transfer
+Select_Folder=Select folder
+Error_Download_Program=An error occurred during transfer of the program.
+Label_State=State of the transfer
+Button_Ok=Update
+Button_Cancel=Cancel

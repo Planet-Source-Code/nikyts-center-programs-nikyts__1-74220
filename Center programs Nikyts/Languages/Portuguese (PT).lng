@@ -1,0 +1,140 @@
+++++++++++++++++++++++++++++++++++++++++++
+    NPlayer - Nikyts software
+    http://www.nikyts.com
+++++++++++++++++++++++++++++++++++++++++++
+
+    Language: Portuguese (PT)
+
+[Map]
+Region=4
+X=223
+Y=90
+	
+[Setup]
+Button_Close=Fechar
+Label_Language=Idioma
+Check_Shortcut=Criar atalho no ambiente de trabalho
+Button_Ok=Ok
+Button_Cancel=Cancelar
+
+[Install]
+Title1=Verificar componentes
+Title2=Registar componentes
+Button_Close=Fechar
+Label_Info=O programa para ser executado correctamente poderá ter que registar algumas componentes.
+Button_Ok=Registar
+Button_Cancel=Cancelar
+
+[Message]
+Button_Close=Fechar
+Label_Yes=Sim
+Label_Ok=OK
+Label_No=Não
+
+[Main]
+Button_Close=Fechar
+Button_Minimize=Minimizar
+Button_Maximize=Maximizar
+Button_Restore=Restaurar
+Menu_Search=Pesquisar
+Menu_Installed=Instalados
+Menu_Share=Partilhar
+Menu_Options=Opções
+Menu_Support=Suporte
+Menu_About=Sobre
+Tab_Select_Category=Inicio
+Text_Search=Pesquisar
+Label_Select_Category=SELECIONE A CATEGORIA DO PROGRAMA QUE PRETENDE PESQUISAR
+Button_Update_Program=Actualizar programa
+Error_Transfer_Program=Ocorreu um erro durante a transferência do programa.
+Button_Transfer_Program=Transferir
+Button_Execute_Program=Executar
+Button_Remove_Program=Remover
+Button_Cancel_Program=Cancelar
+Button_More_Information=Mais informações
+Label_Program_Official_Website=Official website
+Label_Rating=Classificação
+Label_Select_Category=SELECIONE A CATEGORIA DO PROGRAMA QUE PRETENDE PESQUISAR
+Folder_Tools=Ferramentas
+Folder_Media=Som e video
+Folder_Accessibility=Acessibilidade
+Folder_Internet=Internet
+Folder_Games=Jogos
+Label_Transferring_File=Transferindo o ficheiro. Aguarde...
+Label_Download_Complete=Transferência completa
+Label_Installed_In=Instalado em
+Label_No_Programs_Found=Nenhum programa foi encontrado com esta categoria.
+Button_More_Information=Mais informações
+Button_Execute=Executar
+Label_I_Like=Se gostou do programa contribuia para a sua votação.
+Button_I_Like=Eu gosto
+Operation_Canceled=Operação cancelada
+Label_Transferring_File=Transferindo o ficheiro...
+Message_Vote_Assigned=O seu voto foi atribuido ao programa com sucesso!
+Message_Thanks=Obrigado pela sua contribuição.
+Label_Rate=Classificação
+Label_Site_Official=Site oficial do programa
+Message_Required_Field=Campo de preenchimento obrigatório.
+Message_Email_Invalid=Indique um endereço de email válido.
+Label_Info=(Para possivel contacto caso seja necessário)
+Label_Of=E-mail
+Label_Subject=Assunto
+Label_Message=Mensagem
+Label_Report=Reportar erro
+Label_Suggestion=Sugestão
+Label_Question=Questão
+Label_Other=Outro
+Button_Ok=Enviar mensagem
+Button_Clean=Limpar campos
+Label_Error=Erro nº:
+Label_Description=Descrição:
+Error_Execution=Ocorreu um erro durante a execução do programa.
+Error_Register=Ocorreu um erro ao registar as componetes do programa.
+Error_Suggestion=Sugestão: execute o programa como administrador.
+Error_Connect=Ocorreu um erro ao tentar conectar-se ao servidor.
+Error_internet=Possivel causa: a sua conexão á internet poderá estar desligada.
+Info_Posted=A sua mensagem foi enviada com sucesso.
+Error_Email_Invalid=O email é inválido.
+Text_About1=O Center programs Nikyts é um aplicativo que disponibiliza aos seus utilizadores o gerenciamento de programas desenvolvidos pela Nikyts Software, bem como outros possiveis colaboradores, onde é possível instalar, remover e atualizar programas.
+Text_About2=O programa é um sistema portátil, que foi criado pensando em utilizadores que vão utilizar um pendrive como disco rígido, todavia é perfeitamente possível utilizá-lo em uma pasta qualquer do seu Windows. 
+Text_About3=Basta descompactar e executar o arquivo principal que logo você estará pronto a utilizar os seus recursos.
+Text_About4=Embora não seja necessário instalar o aplicativo, isto não quer dizer que não poderá ser necessário registar algumas componentes no seu computador, para que deste modo possa usufruir das suas funcionalidades correctamente.
+Text_About5=O Center programs Nikyts foi desenvolvido em Visual Basic 6 por
+Text_About6=com o intuito de criar um aplicativo que disponha vários recursos inerentes ao dia-a-dia dos utilizadores numa só aplicação. 
+Label_Version=versão
+Label_Informatic=Informática e tecnologia
+Label_Contact=Contacto
+Label_Website=Site oficial
+Close_Frame_Error=Ocultar
+Button_Apply=Aplicar preferências
+Ckeck_Update=Verificar atualizacoes automaticamente
+Label_Language_Program=Idioma do programa
+Button_Run_Program=Executar
+Button_Uninstall_Program=Desinstalar programa
+Button_Upload_Program=Carregar programa
+Label_Share_Business=Empresa / Programador
+Label_Share_Name=Nome do programa
+Label_Share_Description=Faça uma pequena descrição do programa
+Label_Share_Information=Informação sobre o programa
+Label_Share_Web=Site oficial
+Label_Share_Download=Hiperligação para efectuar o download do programa
+Label_Share_Info=Nota: Caso se verifique que o programa possua algum virus será removido!
+Tab_Result_Search=Resultado da pesquisa
+Tab_Result_Enterprise=Programas desenvolvidos por
+Quest_Uninstall_Programa=Pretende realmente desinstalar o programa:
+Info_None_Selected_Program=Nenhum programa selecionado.
+Check_Tray=Minimizar o programa no systray (ao lado do clock)
+Check_Bar=Ver a barra dos programas instalados no ambiente de trabalho
+Label_Options_Successfully_Updated=(As opções do programa foram atualizadas com sucesso)
+
+[Update]
+Title=Actualizar programa
+Button_Close=Fechar
+Location_Program=Localização do programa
+Check_Start_Program=Iniciar o programa após a actualização
+Label_State_Download=Estado da transferência
+Select_Folder=Selecionar pasta
+Error_Download_Program=Ocorreu um erro durante a transferência do programa.
+Label_State=Estado da transferência
+Button_Ok=Actualizar
+Button_Cancel=Cancelar
